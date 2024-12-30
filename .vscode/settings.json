@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "stm32f10x.h": "c",
+        "oled.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
